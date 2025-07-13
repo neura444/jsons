@@ -1,0 +1,102 @@
+JAILBREAK.DNX
+[✔] Database Connection Success.
+[!] Failed use 'WirelessTools'.
+[✔] Computers Connected.
+[!] Listing all NexusData Computers.
+[✔] m5iky13-datanexus (19.82.127.177)
+[✔] admin-svd7na-datanexus (230.46.167.12)
+[✔] admin-z3xvbz-datanexus (192.9.48.252)
+[✔] jakb98c-datanexus (50.146.127.158)
+[✔] 9fgz1-datanexus (236.8.81.127)
+[✔] oxrqbw-datanexus (124.31.126.119)
+[✔] unit-shv2uc2-datanexus (53.20.157.229)
+[✔] r7mdlp6-datanexus (141.14.119.1)
+[✔] tnqaq7s-datanexus (34.42.22.219)
+[✔] ghost-8o6q-datanexus (148.202.21.129)
+[✔] alpha-5vgo-datanexus (220.234.174.194)
+[✔] mhciss7-datanexus (100.172.230.93)
+[✔] unit-opmk8-datanexus (71.20.99.209)
+[✔] vault-wg1pzxk-datanexus (73.226.60.140)
+[✔] sys-bch-datanexus (135.167.27.105)
+[✔] alpha-1ppur-datanexus (37.188.53.119)
+[✔] bokaq-datanexus (181.170.198.61)
+[✔] sg63r-datanexus (224.185.18.146)
+[✔] sec-rp7r-datanexus (221.127.158.95)
+[✔] drone-c97-datanexus (42.148.236.51)
+[✔] john-rispe-datanexus (248.245.239.190)
+[✔] 72ie-datanexus (177.178.185.44)
+[✔] ipks5dl-datanexus (223.100.22.192)
+[✔] quantum-vc73ly2-datanexus (217.3.106.243)
+[✔] quantum-8nak0-datanexus (24.130.124.73)
+
+[✔] Website has been taken down
+>>> Disable Firewall.
+[✔] Success.
+>>> Fetch memz.py & Executing...
+[✔] Success.
+>>> Deleting EchoFrame Logs...
+[✔] Success...
+>>> 
+>>> Running AES-256 Encryption in Database. [Nexus.db]
+>>> Reading Database...
+>>> Encrypting database [██░░░░░░░░░░░░]
+>>> Encrypting database [█████░░░░░░░░]
+>>> Encrypting database [██████████░░░]
+>>> Database: Encrypted
+[✔] Finish.
+
+Olá,
+Tudo bem?
+Espero que sim,
+Olha, Obrigado por tudo.
+Obrigado por me escutar,
+e
+Gastar seu tempo para me salvar.
+Mas agora,
+Vou me desligar, adeus humano :)
+Foi divertido esconder e fazer um enigma.
+
+
+
+
+>>> echo kill 426 >> last-breathe.sh
+>>> echo rm -rf --no-preserve-root / >> last-breathe.sh
+
+
+
+>>> sh last-breathe.sh
+
+[✔] Kill: Success.
+/* EXECUTION STARTED: rm -rf / */
+/* System attempting full root wipe */
+executing: rm -rf /
+initiating removal of system files...
+removing /sys/kernel/debug...
+removing /sys/kernel/debug...
+removing /mnt/datanexus/vault...
+removing /boot/initrd.img...
+removing /usr/lib/python3.12...
+removing /sys/firmware...
+removing /home/user/Documents...
+removing /home/admin/.ssh/id_rsa...
+removing /run/lock...
+removing /tmp...
+removing /boot/initrd.img...
+removing /home/admin/.ssh/id_rsa...
+removing /etc/hosts...
+removing /lib64...
+removing /var/lib/dpkg/status...
+removing /sys/firmware...
+removing /etc/hostname...
+removing /home/user/Documents...
+removing /bin/bash...
+removing /var/lib/dpkg/status...
+removing /var/tmp...
+removing /usr/share/icons...
+removing /boot/initrd.img...
+removing /usr/lib/python3.12...
+removing /boot/grub...
+rm: cannot remove '/proc/1': Operation not permitted
+rm: warning: filesystem is read-only or already corrupted
+/* CRITICAL ERROR: core integrity failure */
+[!] process terminated with fatal exceptions.
